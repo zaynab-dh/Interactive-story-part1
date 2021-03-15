@@ -1,0 +1,197 @@
+.form{
+    background: url(images/cover.jpg) no-repeat center center ; 
+    background-size: cover;
+    height: 100%;
+    
+}
+
+body{
+    background-color: gray;
+}
+
+#section1{
+    background: url(images/Young-Simba-and-Nala-from-The-Lion-King.jpg) no-repeat center center ; 
+    background-size: cover;
+    height: 100%;
+
+}
+
+#section2{
+    background: url(images/Simba.jpg) no-repeat center center ; 
+    background-size: cover;
+    height: 100%;
+
+}
+
+#section3 {
+    background: url(images/image-roi-lion-repliques-02.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section4 {
+    background: url(images/The-Lion-King_Zazu-10.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section5 {
+    background: url(images/c1e0bfb3daee043ce28aff632ad980ac96-15-the-lion-king-mufasa.rsocial.w1200.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section6 {
+    background: url(images/experiencing-the-lion-king-for-the-first-time-on-its-25th-an_s1xy.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section7 {
+    background: url(images/d08c7442a2ba410bfb272dc212a14361.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section8 {
+    background: url(images/1a35486bf8e3f43589a9ac29f6e22fce.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section9 {
+    background: url(images/Hyenas-from-The-Lion-King-Elephant-Graveyard.webp) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section10 {
+    background: url(images/460719_1275918338020_full.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section11 {
+    background: url(images/m.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section12 {
+    background: url(images/5d2de93921a861228441dcf4.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+#section13 {
+    background: url(images/The_Lion_King_-_Act_III_-_Pride_Rock_-_1.jpg) no-repeat center center ; 
+    height: 100%;
+    background-size: cover;
+}
+
+.start{
+    position: absolute;
+  top: 450px;
+  right: 400px;
+  border-radius: 13px;
+  opacity: 0.8;
+  height: 80px;
+  width:280px;
+  font-size: 50px;
+  transition-duration: 0.4s;
+    font-weight: bold;
+}
+a{
+    text-decoration:none;
+}
+.start:hover {
+    cursor: pointer;
+    background-color:maroon;
+    color:peru;
+}
+
+.content{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    width :400px;
+    text-align: justify;
+}
+
+.container{
+    float : right;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.container2{
+    float : right;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+   margin-top: 175px;
+    
+}
+.container4{
+    padding : 15px 30% 0px 40%;
+    margin-right: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+.container5, .container9{
+    float : left;
+    margin-left: 50px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;  
+}
+.container12{
+    padding : 270px 30% 0px 40%;
+    
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+}
+.container13{
+    float : left;
+    margin-left: 35%;
+    padding-top: 100px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+.sec{
+    margin-top : 10px;
+}
+.actionbtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin:0 5px;
+}
+
+.sc1, .sc2, .prev{
+    width :130px;
+    height: 35px;
+    border-radius: 15px;
+    margin:0 5px;
+    transition-duration: 0.4s;
+    font-weight: bold;
+}
+
+
+.sc1:hover, .sc2:hover, .prev:hover{
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+}
+
+p {
+    background-color: rgb(189, 189, 189, 0.5);
+    color: black;
+    padding: 5px;
+}
+
+    
